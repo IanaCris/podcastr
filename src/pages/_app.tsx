@@ -16,7 +16,6 @@ function MyApp({ Component, pageProps }) {
     setCurrentEpisodeIndex(0);
   }
 
-
   return (
     <PlayerContext.Provider value={{ episodeList, currentEpisodeIndex, play }}>
       <div className={styles.wrapper}>
