@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/logo_podcastr.png" alt="Podcastr" width="200px" />
+  <img src="./.github/logo.png" alt="Podcastr" width="200px" />
 </p>
 
 <h1 name="sobre">ℹ Sobre o Projeto</h1>
