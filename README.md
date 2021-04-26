@@ -8,7 +8,7 @@ As principais funcionalidades são: a listagens de podcasts com textos descritiv
 
 <h1 name="preview">:eyes: Preview do Projeto</h1>
 <h3>Web</h3>
-<img alt="Results1" title="landing web" src=".github/podcastr_home.png" width="800px"/>
+<img alt="Results1" title="landing web" src=".github/home_podcastr.png" width="800px"/>
 
 <h1 name="run">:boom: Como Executar o projeto</h1> <br>
 
