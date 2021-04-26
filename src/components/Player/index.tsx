@@ -62,7 +62,7 @@ export function Player() {
             { episode ? (
               <Slider 
                 trackStyle={{ backgroundColor: '#04d361' }}
-                railStyle={{ backgroundColor: '#9f75ff' }}
+                railStyle={{ backgroundColor: '#168aad' }}
                 handleStyle={{ borderColor: '#04d361', borderWidth: 4 }}
               />
             ) : (
